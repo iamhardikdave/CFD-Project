@@ -1,3 +1,5 @@
+// HARDIK DAVE
+//LID DRIVEN CAVITY PROBLEM using Stream-vorticity PDE Formulation
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
